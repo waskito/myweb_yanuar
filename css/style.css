@@ -305,7 +305,8 @@ input[type=text], select, textarea {
     resize: vertical
 }
 
-input[type=submit] {
+input[type=submit],
+input[type=button] {
     background-color: #4CAF50;
     color: #fff;
     padding: 12px 20px;
@@ -316,7 +317,8 @@ input[type=submit] {
     margin-bottom: 10px;
 }
 
-input[type=submit]:hover {
+input[type=submit]:hover,
+input[type=button]:hover {
     background-color: #45a049;
 }
 
@@ -420,4 +422,8 @@ input[type=submit]:hover {
   .panel--right {
     left: 0%;
   }
+}
+
+h1#luas{
+  font-size: 4em;
 }
