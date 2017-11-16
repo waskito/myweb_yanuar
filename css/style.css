@@ -10,7 +10,7 @@
 
 body{
   font-family: 'Roboto Condensed', sans-serif;
-  background-image: url('/img/christopher-gower-291240.jpg');
+  background-image: url('../img/christopher-gower-291240.jpg');
   background-position: center center;
   background-repeat:  no-repeat;
   background-attachment: fixed;
